@@ -1,5 +1,6 @@
 
 <div>
+
 ### :reminder_ribbon: Contact:
 <p>
   <img align="right" width="250" src="./img/programming.gif" />
@@ -12,3 +13,16 @@
 </a>
 </p>
 </div>
+
+<p align="left">
+
+## Tecnologias em que possuo conhecimento:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="ygor-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="ygor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="hicaro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="hicaro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+</div>
+<p>
+
