@@ -25,4 +25,14 @@
   <img align="center" alt="hicaro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
 <p>
+</p>
 
+<details> 
+  <summary>?? GitHub Profile Stats</summary>
+  <a href= "https://github.com/Ygor-Matos">
+
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ygor-Matos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ygor-Matos&layout=compact&langs_count=8&theme=dark"/>
+      
+</details>
